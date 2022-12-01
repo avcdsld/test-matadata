@@ -1,0 +1,8 @@
+{
+  "name": "Test NFT",
+  "description": "Test NFT",
+  "image": "https://raw.githubusercontent.com/crypto-mandala/lens-mandala-contracts/main/metadata/image.png",
+  "external_link": "https://github.com/avcdsld/test-matadata",
+  "seller_fee_basis_points": 500,
+  "fee_recipient": "0xe996FE17B655CC6830c3319002B71AF1Fb3ceCd6"
+}
